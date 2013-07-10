@@ -1,7 +1,7 @@
 Progressive-Disclosure-email-template
 =====================================
 
-Progressive Disclosure email template. WIP 1
+Progressive Disclosure email template. WIP 37
 
 The aim is to make a progressive disclosure email template that is ready to work in campaign monitor (using it's awesome templating system). 
 In order for this to work outside of Campaign Monitor simply remove the relevant tags.

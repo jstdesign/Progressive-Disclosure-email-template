@@ -17,3 +17,6 @@ Campaign Monitor - http://www.campaignmonitor.com/
 Progressive email guide - http://www.campaignmonitor.com/guides/mobile/responsive/
 
 Fluid images in email - http://www.campaignmonitor.com/blog/post/3564/applying-fluid-layouts-to-html-email-design/
+
+Buttons and background provided by http://emailbtn.net/ & http://emailbg.net/ 
+(Also a member of Campaign Monitor)
